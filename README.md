@@ -1,4 +1,4 @@
 # Padrões De Projetos
 
-* Abstract Factory;
-* Strategy
+* [Abstract Factory](./abstract-factory/);
+* [Strategy](./strategy/)
